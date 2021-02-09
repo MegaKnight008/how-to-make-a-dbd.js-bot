@@ -12,4 +12,5 @@
   },
   "author": "Your name",
   "license": "ISC"
-} //This file is made when you do "npm init" in terminal
+} 
+//This file is made when you do "npm init" in terminal

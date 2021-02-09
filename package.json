@@ -10,6 +10,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mega Knight",
+  "author": "Your name",
   "license": "ISC"
-}
+} //This file is made when you do "npm init" in terminal

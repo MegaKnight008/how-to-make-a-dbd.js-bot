@@ -1,7 +1,7 @@
 var dbd = require("dbd.js")
 var bot = new dbd.Bot({
   token: `BOT TOKEN`,
-  prefix: ['$getServerVar[prefix]', '<@BotID>', '<@BotID>'] //make sure to make a variable named "prefix" and value at your bot prefix or see line 44 and second 2 make your bot respnd to ping
+  prefix: ['$getServerVar[prefix]', '<@BotID>', '<@BotID>'] //make sure to make a variable named "prefix" and value at your bot prefix or see line 44 and second 2 make your bot respnd to ping as prefix
 })
 
 bot.onMessage()

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "dbd.js": "^1.9.4"
+    "dbd.js": "^3.0.6"
   },
   "devDependencies": {},
   "scripts": {
@@ -13,4 +13,3 @@
   "author": "Your name",
   "license": "ISC"
 } 
-//This file is made when you do "npm init" in terminal
